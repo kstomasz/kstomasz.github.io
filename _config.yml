@@ -9,7 +9,7 @@
 locale                   : "pl-PL"
 title                    : "Informacje duszpasterskie"
 title_separator          : "-"
-name                     : "Ks. Tomasz Włodarczyk"
+name                     : "Ks. Tomasz"
 description              : "Informacje duszpasterskie z Parafii Wniebowzięcia Najświętszej Maryi Panny."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
