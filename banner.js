@@ -17,5 +17,5 @@ layout:
 `;
 
 if (script.slice(0, 3) != '/**') {
-  fs.writeFileSync(filename, banner + script);
+    fs.writeFileSync(filename, banner + script);
 }
