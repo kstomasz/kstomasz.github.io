@@ -8,19 +8,19 @@ header:
   caption:
 excerpt: 'Strona poświęcona bieżącym informacjom duszpasterskim w Parafii Wniebowzięcia Najświętszej Maryi Panny w Redzie.'
 feature_row:
-  - image_path: /assets/images/mm-ministranci-feature.png
-    alt: "ministranci"
+  - image_path: /assets/images/mm-ministranci-feature.jpg
+    alt: "Ministranci"
     title: "Ministranci"
     excerpt: "Informacje dla rodziców i ministrantów z naszej parafii."
     url: "/docs/configuration/"
     btn_label: "Więcej"
-  - image_path: /assets/images/mm-komunia-feature.png
+  - image_path: /assets/images/mm-komunia-feature.jpg
     alt: "I Komunia Święta"
     title: "I Komunia Święta"
     excerpt: "Bieżące informacje dotyczące I Komunii Świętej"
     url: "/docs/layouts/"
     btn_label: "Więcej"
-  - image_path: /assets/images/mm-dzieci-feature.png
+  - image_path: /assets/images/mm-dzieci-feature.jpg
     alt: "Dzieci Boże"
     title: "Dzieci Boże"
     excerpt: "Duszpasterstwo dzieci w naszej parafii"
