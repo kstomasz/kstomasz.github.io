@@ -2,11 +2,11 @@
 main:
   - title: "Wpisy"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "I Komunia Święta"
-     url: /year-archive/
+    url: https://kstomasz.github.io/pages/year-archive/
   - title: "Ministranci"
-     url: /collection-archive/
+    url: https://kstomasz.github.io/collection-archive/
   - title: "Dzieci Boże"
-     url: /sitemap/
+    url: https://kstomasz.github.io/sitemap/
+       # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
