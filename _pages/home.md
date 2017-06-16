@@ -6,9 +6,9 @@ header:
   cta_label: "Zaczynamy"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Strona poświęcona bieżącym informacjom duszpasterskim w Parafii Wniebowzięcia Najświętszej Maryi Panny w Redzie.
+excerpt: 'Strona poświęcona bieżącym informacjom duszpasterskim w Parafii Wniebowzięcia Najświętszej Maryi Panny w Redzie.'
 intro: 
-  - excerpt: 'Przydatne informacje, nowości, plany'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
@@ -29,6 +29,10 @@ feature_row:
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
     btn_label: "Learn More"
+github:
+  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+intro:
+  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fa fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn}'
 ---
 
 {% include feature_row id="intro" type="center" %}
