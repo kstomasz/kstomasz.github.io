@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Tomasz Włodarczyk"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/herb_redy.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ksiądz w Parafii Wniebowzięcia Najświętszej Maryi Panny w Redzie"
   location         : "Reda"
   email            :
